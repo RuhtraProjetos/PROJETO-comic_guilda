@@ -5,11 +5,11 @@
     <title></title>
 </head>
 <body>
-    <div class="w-full h-full">
+    <div class="">
         <header class="">
             @include('includes.header')
         </header>
-        <div id="main" class="">
+        <div id="" class="">
             @yield('content')
         </div>
         <footer class="">
