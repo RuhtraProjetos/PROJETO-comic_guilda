@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     @include('includes.head')
-    <title></title>
+    <title>Readers Guild</title>
 </head>
 <body>
     <div class="">
