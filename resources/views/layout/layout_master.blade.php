@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     @include('includes.head')
     <title>Readers Guild</title>
 </head>
+
 <body>
     <div class="">
         <header class="">
@@ -17,4 +19,5 @@
         </footer>
     </div>
 </body>
+
 </html>
